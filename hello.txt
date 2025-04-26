@@ -1,3 +1,4 @@
 Hello git from master
 Hello git from version 2
 Merged !!!
+Uzak repo'ya eklendi.
